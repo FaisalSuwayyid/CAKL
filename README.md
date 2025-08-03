@@ -1,5 +1,5 @@
 # CAKL
-CAKL: Commutative Algebra K-mer Learning
+CAKL Commutative Algebra K-mer Learning
 
 CAKL computes k-mer algebraic representations of sequences based on k-mer analysis, as detailed in the main manuscript.
 
