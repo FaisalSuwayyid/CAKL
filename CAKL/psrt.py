@@ -3,6 +3,7 @@ import gudhi as gd
 import math
 import bisect
 
+""" The source code for the methods used for comparison in this study can be found in https://github.com/hozumiyu/KmerTopology, thanks to Dr. Yuta Hozumi """
 
 
 class PH:
