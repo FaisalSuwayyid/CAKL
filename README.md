@@ -49,13 +49,14 @@ When the paper for this software is available on the Arxiv and/or published, we 
 ## Required Packages
 The inidivudal packages that we utilized is listed below:
 ```
-numpy
+numpy==1.26.4
 scikit-learn
-scipy
-gudhi
-biopython
-matplotlib
-pandas
+scipy==1.13.1
+gudhi==3.10.1
+biopython==1.84
+matplotlib==3.10.0
+pandas==2.2.2
+seaborn==0.13.2
 ```
 
 ## Repository File Description
