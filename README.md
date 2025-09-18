@@ -12,6 +12,7 @@ Copyright © 2025 Faisal Suwayyid.
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Basic Usage](basic-usage)
+  - [Instructions for Usage](instructions-for-usage)
   - [License](#license)
   - [Citation](#citation)
   - [Required Packages](#required-packages)
@@ -38,6 +39,20 @@ CAKL is an alignment-free method that computes k-mer algebraic representations o
   - Computes the distance matrix from the generated features.
   - Construct the tree, view it, and save a Newick version of the tree.
   - Demo runtime: less than 10 minutes.
+
+## Instructions for Usage
+To use the code on your data, please ensure your input files are properly formatted:
+
+1. **FASTA file**
+   - Contains DNA sequences.
+   - Each sequence should include its accession or accession with version.
+   - If you are working with non-DNA data, you may need to modify the nucleotide bases in the code (psrt.py).
+
+2. **CSV file**
+  - Must contain a column named `Accession (version)` that exactly matches the accessions (or accessions with versions) in the FASTA file.  
+  - Must also include a label column named `Name`.  
+  - If your CSV uses different column names, update the code accordingly (see `example.ipynb`), or copy the code from `example.ipynb` and prepare a new script that uses your CSV columns.  
+
 
 ## License
 
