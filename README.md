@@ -64,6 +64,6 @@ pandas
   - `example.py`: usage example on arbitrary sequences.  
   - `example.ipynb`: Jupyter notebook demonstrating how to reproduce feature extraction and distance computations for two sample datasets.  
 
-- **`data2/`**  
+- **`CAKL/data2/`**  
   Includes two example datasets used in the experiments and demonstrations.  
 
