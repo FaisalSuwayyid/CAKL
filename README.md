@@ -49,9 +49,9 @@ To use the code on your data, please ensure your input files are properly format
    - If you are working with non-DNA data, you may need to modify the nucleotide bases in the code (psrt.py).
 
 2. **CSV file**
-  - Must contain a column named `Accession (version)` that exactly matches the accessions (or accessions with versions) in the FASTA file.  
-  - Must also include a label column named `Name`.  
-  - If your CSV uses different column names, update the code accordingly (see `example.ipynb`), or copy the code from `example.ipynb` and prepare a new script that uses your CSV columns.  
+    - Must contain a column named `Accession (version)` that exactly matches the accessions (or accessions with versions) in the FASTA file.  
+    - Must also include a label column named `Name`.  
+    - If your CSV uses different column names, update the code accordingly (see `example.ipynb`), or copy the code from `example.ipynb` and prepare a new script that uses your CSV columns.  
 
 
 ## License
