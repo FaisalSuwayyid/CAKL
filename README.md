@@ -26,6 +26,8 @@ CAKL is an alignment-free method that computes k-mer algebraic representations o
 - **`example.py`**  
   Provides a minimal example for generating features.  
   Simply replace the placeholder sequence with your own sequence and run the script.  
+  The code will generate the features for the provided sequence and save them in a file.
+  The generated features include the f-, h-, and facet curves.
   You can also modify it as needed to suit your workflow.  
 
 - **`example.ipynb`**  
