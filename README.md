@@ -15,7 +15,7 @@ Copyright © 2025 Faisal Suwayyid.
   - [License](#license)
   - [Citation](#citation)
   - [Required Packages](#required-packages)
-  -[Respository File description](#respository-file-description)
+  - [Respository File description](#respository-file-description)
 
 ## Description
 
