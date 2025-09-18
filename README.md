@@ -33,7 +33,8 @@ CAKL is an alignment-free method that computes k-mer algebraic representations o
   - Reads sequences from a FASTA file and their labels from a CSV file.  
   - Generates features for each sequence (saved as individual NumPy arrays).  
   - Stacks the features into a single feature matrix.  
-  - Computes the distance matrix from the generated features.  
+  - Computes the distance matrix from the generated features.
+  - Construct the tree, view it, and save a Newick version of the tree.
 
 ## License
 
