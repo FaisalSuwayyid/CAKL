@@ -62,13 +62,12 @@ CAKL is licensed under the MIT license (COPYING.txt), with an extra clause (CONT
 
 If you wish to cite this work, please use the following citation:
 ```
-@misc{suwayyid2025caklcommutativealgebrakmerlearning,
+@misc{suwayyid2025cakl,
       title={CAKL: Commutative Algebra $k$-mer Learning of Genomics}, 
       author={Faisal Suwayyid and Yuta Hozumi and Hongsong Feng and Mushal Zia and JunJie Wee and Guo-Wei Wei},
       year={2025},
       eprint={2508.09406},
       archivePrefix={arXiv},
-      primaryClass={q-bio.GN},
       url={https://arxiv.org/abs/2508.09406}, 
 }
 ```
