@@ -1,7 +1,8 @@
 # CAKL
 
 ![Alt text](concept.png)
-CAKL: Commutative Algebra K-mer Learning
+
+## CAKL: Commutative Algebra K-mer Learning
 
 CAKL is an alignment-free method that computes k-mer algebraic representations of sequences based on k-mer analysis leveraging tools from commutative algebra, as detailed in the main manuscript. Though the code is designed for DNA sequences, the method can be generalized to arbitrary finite sequences.
 
