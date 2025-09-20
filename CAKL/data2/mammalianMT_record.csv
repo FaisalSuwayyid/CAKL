@@ -1,0 +1,42 @@
+Accession (version),Accession,Abbreviation,Want,Genomic Length (bp),Name,Names,label
+V00662.1,V00662,Human,Human,16569,Primates,Primates 1,Primates
+D38116.1,D38116,Pig_Chim,Pigmy chimpanzee,16563,Primates,Primates 2,Primates
+D38113.1,D38113,Com_Chim,Common chimpanzee,16554,Primates,Primates 3,Primates
+D38114.1,D38114,Gorilla,Gorilla,16364,Primates,Primates 4,Primates
+X99256.1,X99256,Gibbon,Gibbon,16472,Primates,Primates 5,Primates
+Y18001.1,Y18001,Baboon,Baboon,16521,Primates,Primates 6,Primates
+AY863426.1,AY863426,Ver_Monkey,Vervet monkey,16389,Primates,Primates 7,Primates
+D38115.1,D38115,Bor_Oran,Bornean orangutan,16389,Primates,Primates 8,Primates
+NC_002083.1,NC_002083,Sum_Oran,Sumatran orangutan,16499,Primates,Primates 9,Primates
+NC_002764.1,NC_002764,Macaca_Thibet,Macaca Thibet,16586,Primates,Primates 10,Primates
+U20753.1,U20753,Cat,Cat,17009,Carnivore,Carnivore 1,Carnivore
+U96639.2,U96639,Dog,Dog,16727,Carnivore,Carnivore 2,Carnivore
+EU442884.2,EU442884,Wolf,Wolf,16774,Carnivore,Carnivore 3,Carnivore
+EF551003.1,EF551003,Tiger,Tiger,16990,Carnivore,Carnivore 4,Carnivore
+EF551002.1,EF551002,Leopard,Leopard,16964,Carnivore,Carnivore 5,Carnivore
+DQ402478.1,DQ402478,Black_Bear,Black Bear,16868,Carnivore,Carnivore 6,Carnivore
+AF303110.1,AF303110,Brown_Bear,Brown Bear,17020,Carnivore,Carnivore 7,Carnivore
+AF303111.1,AF303111,Polar_Bear,Polar Bear,17017,Carnivore,Carnivore 8,Carnivore
+EF212882.1,EF212882,Giant_Panda,Giant Panda,16805,Carnivore,Carnivore 9,Carnivore
+AJ002189.1,AJ002189,Pig,Pig,16680,Artiodactyla,Artiodactyla 1,Artiodactyla
+AF010406.1,AF010406,Sheep,Sheep,16616,Artiodactyla,Artiodactyla 2,Artiodactyla
+AF533441.1,AF533441,Goat,Goat,16640,Artiodactyla,Artiodactyla 3,Artiodactyla
+V00654.1,V00654,Cow,Cow,16338,Artiodactyla,Artiodactyla 4,Artiodactyla
+AY488491.1,AY488491,Buffalo,Buffalo,16355,Artiodactyla,Artiodactyla 5,Artiodactyla
+NC_007441.1,NC_007441,chiru,chiru,16498,Artiodactyla,Artiodactyla 6,Artiodactyla
+NC_008830.1,NC_008830,Common warthog,Common warthog,16719,Artiodactyla,Artiodactyla 7,Artiodactyla
+NC_010640.1,NC_010640,Taiwan serow, Taiwan serow,16524,Artiodactyla,Artiodactyla 8,Artiodactyla
+X72204.1,X72204,Blue_Whale,Blue whale,16402,Cetacea,Cetacea 1,Cetacea
+NC_005268.1,NC_005268,Bowhead Whale,Bowhead Whale,16390,Cetacea,Cetacea 2,Cetacea
+NC_001321.1,NC_001321,Fin Whale,Fin Whale,16398,Cetacea,Cetacea 3,Cetacea
+NC_005270.1,NC_005270,Gray Whale,Gray Whale,16412,Cetacea,Cetacea 4,Cetacea
+NC_005275.1,NC_005275,Indus River Dolphin,Indus River Dolphin,16324,Cetacea,Cetacea 5,Cetacea
+NC_006931.1,NC_006931,North Pacific Right Whale,North Pacific Right Whale,16386,Cetacea,Cetacea 6,Cetacea
+NC_001788.1,NC_001788,donkey,donkey,16670,Perissodactyla,Perissodactyla 1,Perissodactyla
+X97336.1,X97336,Indian_Rhino,Indian Rhinoceros,16829,Perissodactyla,Perissodactyla 2,Perissodactyla
+Y07726.1,Y07726,White_Rhino,White Rhinoceros,16832,Perissodactyla,Perissodactyla 3,Perissodactyla
+NC_001640.1,NC_001640,horse,horse,16660,Perissodactyla,Perissodactyla 4,Perissodactyla
+AJ238588.1,AJ238588,Squirrel,Squirrel,16507,Rodentia,Rodentia 1,Rodentia
+AJ001562.1,AJ001562,Dormouse,Dormouse,16602,Rodentia,Rodentia 2,Rodentia
+AJ001588.1,AJ001588,Rabbit,Rabbit,17245,Lagomorpha,Lagomorpha 1,Lagomorpha
+X88898.2,X88898,Hedgehog,Hedgehog,17447,Erinaceomorpha,Erinaceomorpha 1,Erinaceomorpha

@@ -1,0 +1,117 @@
+Accession (version),Accession,Description,Label,New Label,Name,Genomic Length (bp),id,Want,label
+AF499637.1,AF499637,AF499637.1 Human coxsackievirus A13 strain Flores| complete genome,HEV_cva-13*,HEV-CV-A13,HEV,7458,1,HEV1,HEV
+AF546702.1,AF546702,AF546702.1 Human coxsackievirus A21 strain Kuykendall| complete genome,HEV_cva-21*,HEV-CV-A21,HEV,7406,2,HEV2,HEV
+AY751783.1,AY751783,AY751783.1 Human rhinovirus 39| complete genome,A_hrv-39*,HRV-A39,A,7137,1,A1,A
+DQ473485.1,DQ473485,DQ473485.1 Rhinovirus B3| complete genome,B_hrv-03*,HRV-B03,B,7208,1,B1,B
+DQ473486.1,DQ473486,DQ473486.1 Rhinovirus B6| complete genome,B_hrv-06*,HRV-B06,B,7216,2,B2,B
+DQ473488.1,DQ473488,DQ473488.1 Rhinovirus B48| complete genome,B_hrv-48*,HRV-B48,B,7214,3,B3,B
+DQ473489.1,DQ473489,DQ473489.1 Rhinovirus B70| complete genome,B_hrv-70*,HRV-B70,B,7223,4,B4,B
+DQ473490.1,DQ473490,DQ473490.1 Rhinovirus B4| complete genome,B_hrv-04*,HRV-B04,B,7212,5,B5,B
+DQ473491.1,DQ473491,DQ473491.1 Rhinovirus A41| complete genome,A_hrv-41*,HRV-A41,A,7145,2,A2,A
+DQ473492.1,DQ473492,DQ473492.1 Rhinovirus A73| complete genome,A_hrv-73*,HRV-A73,A,7140,3,A3,A
+DQ473493.1,DQ473493,DQ473493.1 Rhinovirus A15| complete genome,A_hrv-15*,HRV-A15,A,7134,4,A4,A
+DQ473494.1,DQ473494,DQ473494.1 Rhinovirus A74| complete genome,A_hrv-74*,HRV-A74,A,7120,5,A5,A
+DQ473496.1,DQ473496,DQ473496.1 Rhinovirus A49| complete genome,A_hrv-49*,HRV-A49,A,7106,6,A6,A
+DQ473497.1,DQ473497,DQ473497.1 Rhinovirus A23| complete genome,A_hrv-23*,HRV-A23,A,7025,7,A7,A
+DQ473499.1,DQ473499,DQ473499.1 Human rhinovirus A44| complete genome,A_hrv-44*,HRV-A44,A,7123,8,A8,A
+DQ473500.1,DQ473500,DQ473500.1 Rhinovirus A59| complete genome,A_hrv-59*,HRV-A59,A,7135,9,A9,A
+DQ473504.1,DQ473504,DQ473504.1 Rhinovirus A88| complete genome,A_hrv-88*,HRV-A88,A,7143,10,A10,A
+DQ473505.1,DQ473505,DQ473505.1 Rhinovirus A36| complete genome,A_hrv-36*,HRV-A36,A,7141,11,A11,A
+DQ473506.1,DQ473506,DQ473506.1 Rhinovirus A46| complete genome,A_hrv-46*,HRV-A46,A,7149,12,A12,A
+DQ473507.1,DQ473507,DQ473507.1 Rhinovirus A53| complete genome,A_hrv-53*,HRV-A53,A,7143,13,A13,A
+DQ473508.1,DQ473508,DQ473508.1 Rhinovirus A28| complete genome,A_hrv-28*,HRV-A28,A,7148,14,A14,A
+DQ473510.1,DQ473510,DQ473510.1 Rhinovirus A75| complete genome,A_hrv-75*,HRV-A75,A,7137,15,A15,A
+DQ473511.1,DQ473511,DQ473511.1 Rhinovirus A55| complete genome,A_hrv-55*,HRV-A55,A,7036,16,A16,A
+EF077279.1,EF077279,EF077279.1 Rhinovirus C1 isolate NAT001 polyprotein gene| complete cds,C_nat001*,HRV-C01-NAT001,C,6944,1,C1,C
+EF077280.1,EF077280,EF077280.1 Rhinovirus C2 isolate NAT045 polyprotein gene| complete cds,C_nat045*,HRV-C02-NAT045,C,7015,2,C2,C
+EF173414.1,EF173414,EF173414.1 Human rhinovirus 11| complete genome,A_hrv-11*,HRV-A11,A,7125,17,A17,A
+EF173415.1,EF173415,EF173415.1 Human rhinovirus 12| complete genome,A_hrv-12*,HRV-A12,A,7124,18,A18,A
+EF173420.1,EF173420,EF173420.1 Human rhinovirus 17| complete genome,B_hrv-17*,HRV-B17,B,7219,6,B6,B
+EF173423.1,EF173423,EF173423.1 Human rhinovirus 37| complete genome,B_hrv-37*,HRV-B37,B,7216,7,B7,B
+EF173425.1,EF173425,EF173425.1 Human rhinovirus 93| complete genome,B_hrv-93*,HRV-B93,B,7215,8,B8,B
+EF186077.2,EF186077,EF186077.2 Human rhinovirus C3 strain HRV-QPM| complete genome,C_qpm*,HRV-C03-QPM,C,7134,3,C3,C
+EF582385.1,EF582385,EF582385.1 Rhinovirus C4| complete genome,C_c024*,HRV-C024,C,7099,4,C4,C
+EF582386.1,EF582386,EF582386.1 Rhinovirus C5| complete genome,C_c025*,HRV-C025,C,7114,5,C5,C
+EF582387.1,EF582387,EF582387.1 Rhinovirus C6| complete genome,C_c026*,HRV-C026,C,7086,6,C6,C
+FJ445111.1,FJ445111,FJ445111.1 Human rhinovirus 1 strain ATCC VR-1559| complete genome,A_hrv-01,HRV-A01,A,7137,19,A19,A
+FJ445112.1,FJ445112,FJ445112.1 Human rhinovirus 5 strain ATCC VR-485| complete genome,B_hrv-05,HRV-B05,B,7212,9,B9,B
+FJ445113.1,FJ445113,FJ445113.1 Human rhinovirus 8 strain ATCC VR-1118| complete genome,A_hrv-08,HRV-A08,A,7108,20,A20,A
+FJ445114.1,FJ445114,FJ445114.1 Human rhinovirus 9 isolate F01| complete genome,A_hrv-09-f01,HRV-A09-F01,A,7134,21,A21,A
+FJ445115.1,FJ445115,FJ445115.1 Human rhinovirus 9 isolate F02| complete genome,A_hrv-09-f02,HRV-A09-F02,A,7133,22,A22,A
+FJ445116.1,FJ445116,FJ445116.1 Human rhinovirus 13 strain ATCC VR-1123| complete genome,A_hrv-13,HRV-A13,A,7140,23,A23,A
+FJ445117.1,FJ445117,FJ445117.1 Human rhinovirus 13 isolate F03| complete genome,A_hrv-13-f03,HRV-A13-F03,A,7143,24,A24,A
+FJ445118.1,FJ445118,FJ445118.1 Human rhinovirus 18 strain ATCC VR-1128| complete genome,A_hrv-18,HRV-A18,A,7119,25,A25,A
+FJ445119.1,FJ445119,FJ445119.1 Human rhinovirus 19 strain ATCC VR-1129| complete genome,A_hrv-19,HRV-A19,A,7135,26,A26,A
+FJ445121.1,FJ445121,FJ445121.1 Human rhinovirus 21 strain ATCC VR-1131| complete genome,A_hrv-21,HRV-A21,A,7134,27,A27,A
+FJ445122.1,FJ445122,FJ445122.1 Human rhinovirus 22 strain ATCC VR-1132| complete genome,A_hrv-22,HRV-A22,A,7129,28,A28,A
+FJ445123.1,FJ445123,FJ445123.1 Human rhinovirus 25 strain ATCC VR-1135| complete genome,A_hrv-25,HRV-A25,A,7126,29,A29,A
+FJ445124.1,FJ445124,FJ445124.1 Human rhinovirus 26 strain ATCC VR-1136| complete genome,B_hrv-26,HRV-B26,B,7211,10,B10,B
+FJ445125.1,FJ445125,FJ445125.1 Human rhinovirus 29 strain ATCC VR-1139| complete genome,A_hrv-29,HRV-A29,A,7123,30,A30,A
+FJ445126.1,FJ445126,FJ445126.1 Human rhinovirus 31 strain ATCC VR-506| complete genome,A_hrv-31,HRV-A31,A,7131,31,A31,A
+FJ445127.1,FJ445127,FJ445127.1 Human rhinovirus 32 strain ATCC VR-1142| complete genome,A_hrv-32,HRV-A32,A,7133,32,A32,A
+FJ445128.1,FJ445128,FJ445128.1 Human rhinovirus 33 strain ATCC VR-330| complete genome,A_hrv-33,HRV-A33,A,7133,33,A33,A
+FJ445129.1,FJ445129,FJ445129.1 Human rhinovirus 40 strain ATCC VR-341| complete genome,A_hrv-40,HRV-A40,A,7138,34,A34,A
+FJ445130.1,FJ445130,FJ445130.1 Human rhinovirus 42 strain ATCC VR-338| complete genome,B_hrv-42,HRV-B42,B,7223,11,B11,B
+FJ445131.1,FJ445131,FJ445131.1 Human rhinovirus 43 strain ATCC VR-1153| complete genome,A_hrv-43,HRV-A43,A,7129,35,A35,A
+FJ445132.1,FJ445132,FJ445132.1 Human rhinovirus 45 strain ATCC VR-1155| complete genome,A_hrv-45,HRV-A45,A,7114,36,A36,A
+FJ445133.1,FJ445133,FJ445133.1 Human rhinovirus 47 strain ATCC VR-1157| complete genome,A_hrv-47,HRV-A47,A,7132,37,A37,A
+FJ445134.1,FJ445134,FJ445134.1 Human rhinovirus 49 isolate F04| complete genome,A_hrv-49-f04,HRV-A49-F04,A,7109,38,A38,A
+FJ445135.1,FJ445135,FJ445135.1 Human rhinovirus 50 strain ATCC VR-517| complete genome,A_hrv-50,HRV-A50,A,7118,39,A39,A
+FJ445136.1,FJ445136,FJ445136.1 Human rhinovirus 51 strain ATCC VR-1161| complete genome,A_hrv-51,HRV-A51,A,7152,40,A40,A
+FJ445137.1,FJ445137,FJ445137.1 Human rhinovirus 52 isolate F10| complete genome,B_hrv-52-f10,HRV-B52-F10,B,7216,12,B12,B
+FJ445138.1,FJ445138,FJ445138.1 Human rhinovirus 54 strain ATCC VR-1164| complete genome,A_hrv-54,HRV-A54,A,7134,41,A41,A
+FJ445139.1,FJ445139,FJ445139.1 Human rhinovirus 54 isolate F05| complete genome,A_hrv-54-f05,HRV-A54-F05,A,7133,42,A42,A
+FJ445140.1,FJ445140,FJ445140.1 Human rhinovirus 56 strain ATCC VR-1166| complete genome,A_hrv-56,HRV-A56,A,7136,43,A43,A
+FJ445141.1,FJ445141,FJ445141.1 Human rhinovirus 57 isolate fs ship#1-hrv-57| complete genome,A_hrv-57,HRV-A57,A,7134,44,A44,A
+FJ445142.1,FJ445142,FJ445142.1 Human rhinovirus 58 strain ATCC VR-1168| complete genome,A_hrv-58,HRV-A58,A,7140,45,A45,A
+FJ445143.1,FJ445143,FJ445143.1 Human rhinovirus 60 strain ATCC VR-1473| complete genome,A_hrv-60,HRV-A60,A,7139,46,A46,A
+FJ445144.1,FJ445144,FJ445144.1 Human rhinovirus 61 strain ATCC VR-1171| complete genome,A_hrv-61,HRV-A61,A,7139,47,A47,A
+FJ445145.1,FJ445145,FJ445145.1 Human rhinovirus 62 strain ATCC VR-1172| complete genome,A_hrv-62,HRV-A62,A,7131,48,A48,A
+FJ445146.1,FJ445146,FJ445146.1 Human rhinovirus 63 strain ATCC VR-1173| complete genome,A_hrv-63,HRV-A63,A,7141,49,A49,A
+FJ445147.1,FJ445147,FJ445147.1 Human rhinovirus 65 strain ATCC VR-1175| complete genome,A_hrv-65,HRV-A65,A,7162,50,A50,A
+FJ445148.1,FJ445148,FJ445148.1 Human rhinovirus 66 strain ATCC VR-1176| complete genome,A_hrv-66,HRV-A66,A,7139,51,A51,A
+FJ445149.1,FJ445149,FJ445149.1 Human rhinovirus 67 strain ATCC VR-1177| complete genome,A_hrv-67,HRV-A67,A,7135,52,A52,A
+FJ445151.1,FJ445151,FJ445151.1 Human rhinovirus 69 strain ATCC VR-1179| complete genome,B_hrv-69,HRV-B69,B,7211,13,B13,B
+FJ445152.1,FJ445152,FJ445152.1 Human rhinovirus 71 strain ATCC VR-1181| complete genome,A_hrv-71,HRV-A71,A,7161,53,A53,A
+FJ445153.1,FJ445153,FJ445153.1 Human rhinovirus 72 strain ATCC VR-1182| complete genome,B_hrv-72,HRV-B72,B,7216,14,B14,B
+FJ445154.1,FJ445154,FJ445154.1 Human rhinovirus 77 strain ATCC VR-1187| complete genome,A_hrv-77,HRV-A77,A,7136,54,A54,A
+FJ445155.1,FJ445155,FJ445155.1 Human rhinovirus 79 strain ATCC VR-1189| complete genome,B_hrv-79,HRV-B79,B,7224,15,B15,B
+FJ445156.1,FJ445156,FJ445156.1 Human rhinovirus 80 strain ATCC VR-1190| complete genome,A_hrv-80,HRV-A80,A,7138,55,A55,A
+FJ445157.1,FJ445157,FJ445157.1 Human rhinovirus 81 strain ATCC VR-1191| complete genome,A_hrv-81,HRV-A81,A,7116,56,A56,A
+FJ445158.1,FJ445158,FJ445158.1 Human rhinovirus 81 isolate F06| complete genome,A_hrv-81-f06,HRV-A81-F06,A,7116,57,A57,A
+FJ445159.1,FJ445159,FJ445159.1 Human rhinovirus 81 isolate F07| complete genome,A_hrv-81-f07,HRV-A81-F07,A,7116,58,A58,A
+FJ445160.1,FJ445160,FJ445160.1 Human rhinovirus 82 strain ATCC VR-1192| complete genome,A_hrv-82,HRV-A82,A,7123,59,A59,A
+FJ445161.1,FJ445161,FJ445161.1 Human rhinovirus 83 strain ATCC VR-1193| complete genome,B_hrv-83,HRV-B83,B,7230,16,B16,B
+FJ445162.1,FJ445162,FJ445162.1 Human rhinovirus 84 strain ATCC VR-1194| complete genome,B_hrv-84,HRV-B84,B,7201,17,B17,B
+FJ445163.1,FJ445163,FJ445163.1 Human rhinovirus 85 strain ATCC VR-1195| complete genome,A_hrv-85,HRV-A85,A,7140,60,A60,A
+FJ445164.1,FJ445164,FJ445164.1 Human rhinovirus 86 strain ATCC VR-1196| complete genome,B_hrv-86,HRV-B86,B,7213,18,B18,B
+FJ445165.1,FJ445165,FJ445165.1 Human rhinovirus 89 isolate F09| complete genome,A_hrv-89-f09,HRV-A89-F09,A,7150,61,A61,A
+FJ445166.1,FJ445166,FJ445166.1 Human rhinovirus 89 isolate F08| complete genome,A_hrv-89-f08,HRV-A89-F08,A,7152,62,A62,A
+FJ445167.1,FJ445167,FJ445167.1 Human rhinovirus 90 strain ATCC VR-1291| complete genome,A_hrv-90,HRV-A90,A,7124,63,A63,A
+FJ445168.1,FJ445168,FJ445168.1 Human rhinovirus 91 strain ATCC VR-1292| complete genome,B_hrv-91,HRV-B91,B,7221,19,B19,B
+FJ445169.1,FJ445169,FJ445169.1 Human rhinovirus 92 strain ATCC VR-1293| complete genome,B_hrv-92,HRV-B92,B,7233,20,B20,B
+FJ445170.1,FJ445170,FJ445170.1 Human rhinovirus 95 strain ATCC VR-1301| complete genome,A_hrv-95,HRV-A95,A,7110,64,A64,A
+FJ445171.1,FJ445171,FJ445171.1 Human rhinovirus 96 strain ATCC VR-1296| complete genome,A_hrv-96,HRV-A96,A,7134,65,A65,A
+FJ445172.1,FJ445172,FJ445172.1 Human rhinovirus 97 strain ATCC VR-1297| complete genome,B_hrv-97,HRV-B97,B,7207,21,B21,B
+FJ445173.1,FJ445173,FJ445173.1 Human rhinovirus 98 strain ATCC VR-1298| complete genome,A_hrv-98,HRV-A98,A,7133,66,A66,A
+FJ445174.1,FJ445174,FJ445174.1 Human rhinovirus 99 strain ATCC VR-1299| complete genome,B_hrv-99,HRV-B99,B,7208,22,B22,B
+FJ445175.1,FJ445175,FJ445175.1 Human rhinovirus 100 strain ATCC VR-1300| complete genome,A_hrv-100,HRV-A100,A,7140,67,A67,A
+FJ445176.1,FJ445176,FJ445176.1 Human rhinovirus 7 strain ATCC VR-1117| complete genome,A_hrv-07,HRV-A07,A,7146,68,A68,A
+FJ445177.1,FJ445177,FJ445177.1 Human rhinovirus 9 strain ATCC VR-489| complete genome,A_hrv-09,HRV-A09,A,7132,69,A69,A
+FJ445178.1,FJ445178,FJ445178.1 Human rhinovirus 10 strain ATCC VR-1120| complete genome,A_hrv-10,HRV-A10,A,7137,70,A70,A
+FJ445179.1,FJ445179,FJ445179.1 Human rhinovirus 30 strain ATCC VR-1140| complete genome,A_hrv-30,HRV-A30,A,7093,71,A71,A
+FJ445180.1,FJ445180,FJ445180.1 Human rhinovirus 38 strain ATCC VR-1148| complete genome,A_hrv-38,HRV-A38,A,7136,72,A72,A
+FJ445181.1,FJ445181,FJ445181.1 Human rhinovirus 64 strain ATCC VR-1174| complete genome,A_hrv-64,HRV-A64,A,7129,73,A73,A
+FJ445182.1,FJ445182,FJ445182.1 Human rhinovirus 76 strain ATCC VR-1186| complete genome,A_hrv-76,HRV-A76,A,7128,74,A74,A
+FJ445183.1,FJ445183,FJ445183.1 Human rhinovirus 78 strain ATCC VR-1188| complete genome,A_hrv-78,HRV-A78,A,7145,75,A75,A
+FJ445184.1,FJ445184,FJ445184.1 Human rhinovirus 89 strain ATCC VR-1199| complete genome,A_hrv-89,HRV-A89,A,7152,76,A76,A
+FJ445185.1,FJ445185,FJ445185.1 Human rhinovirus 94 strain ATCC VR-1295| complete genome,A_hrv-94,HRV-A94,A,7132,77,A77,A
+FJ445186.1,FJ445186,FJ445186.1 Human rhinovirus 27 strain ATCC VR-1137| complete genome,B_hrv-27,HRV-B27,B,7217,23,B23,B
+FJ445187.1,FJ445187,FJ445187.1 Human rhinovirus 35 strain ATCC VR-1145| complete genome,B_hrv-35,HRV-B35,B,7224,24,B24,B
+FJ445188.1,FJ445188,FJ445188.1 Human rhinovirus 52 strain ATCC VR-1162| complete genome,B_hrv-52,HRV-B52,B,7216,25,B25,B
+FJ445189.1,FJ445189,FJ445189.1 Human rhinovirus 34 strain ATCC VR-1144| complete genome,A_hrv-34,HRV-A34,A,7119,78,A78,A
+FJ445190.1,FJ445190,FJ445190.1 Human rhinovirus 24 strain ATCC VR-1134| complete genome,A_hrv-24,HRV-A24,A,7132,79,A79,A
+L05355.1,L05355,L05355.1 Human rhinovirus type 14 polyprotein gene,B_hrv-14*,HRV-B14,B,7212,26,B26,B
+L24917.1,L24917,L24917.1 Human rhinovirus type 16 polyprotein gene| complete CDS,A_hrv-16*,HRV-A16,A,7124,80,A80,A
+V01149.1,V01149,V01149.1 Human poliovirus 1 Mahoney| complete genome,HEV_pv-1m*,HEV-HPV-1M,HEV,7440,3,HEV3,HEV
+X02316.1,X02316,X02316.1 Human rhinovirus 2| complete sequence,A_hrv-02*,HRV-A02,A,7102,81,A81,A
