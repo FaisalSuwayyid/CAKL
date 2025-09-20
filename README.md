@@ -22,6 +22,32 @@ Copyright © 2025 Faisal Suwayyid.
 
 CAKL is an alignment-free method that computes k-mer algebraic representations of sequences based on k-mer analysis leveraging tools from commutative algebra, as detailed in the main manuscript. Though the code is designed for DNA sequences, the method can be generalized to arbitrary finite sequences.
 
+## Required Packages
+The codes have been tested on macOS: Sonoma (14.6.1). The individual packages that we utilized are listed below:
+```
+# numpy==1.26.4
+# scikit-learn ==1.4.2
+# scipy==1.13.1
+# gudhi==3.10.1
+# biopython==1.84
+# matplotlib==3.10.0
+# pandas==2.2.2
+# seaborn==0.13.2
+# ete3==3.1.3
+```
+
+## Instructions for Usage
+To use the code on your data, please ensure your input files are properly formatted:
+
+1. **FASTA file**
+   - Contains DNA sequences.
+   - Each sequence should include its accession or accession with version.
+   - If you are working with non-DNA data, you may need to modify the nucleotide bases in the code (psrt.py).
+
+2. **CSV file**
+   - Must contain a column named `Accession (version)` that exactly matches the accessions (or accession+version identifiers) in the FASTA file.  
+   - The labels column can vary; adjust the column name in the code to match the one used in your CSV file.  
+
 ## Basic Usage
 
 - **`example.py`**  
@@ -39,21 +65,7 @@ CAKL is an alignment-free method that computes k-mer algebraic representations o
   - Computes the distance matrix from the generated features.
   - Construct the tree, view it, and save a Newick version of the tree.
   - Demo runtime: less than 10 minutes.
-
-## Instructions for Usage
-To use the code on your data, please ensure your input files are properly formatted:
-
-1. **FASTA file**
-   - Contains DNA sequences.
-   - Each sequence should include its accession or accession with version.
-   - If you are working with non-DNA data, you may need to modify the nucleotide bases in the code (psrt.py).
-
-2. **CSV file**
-    - Must contain a column named `Accession (version)` that exactly matches the accessions (or accessions with versions) in the FASTA file.  
-    - Must also include a label column named `Name`.  
-    - If your CSV uses different column names, update the code accordingly (see `example.ipynb`), or copy the code from `example.ipynb` and prepare a new script that uses your CSV columns.  
-
-
+ 
 ## License
 
 CAKL is licensed under the MIT license (COPYING.txt), with an extra clause (CONTRIBUTING.txt) clarifying the license for modifications released without an explicit written license agreement.
@@ -70,19 +82,6 @@ If you wish to cite this work, please use the following citation:
       archivePrefix={arXiv},
       url={https://arxiv.org/abs/2508.09406}, 
 }
-```
-
-## Required Packages
-The codes have been tested on macOS: Sonoma (14.6.1). The individual packages that we utilized are listed below:
-```
-numpy==1.26.4
-scikit-learn
-scipy==1.13.1
-gudhi==3.10.1
-biopython==1.84
-matplotlib==3.10.0
-pandas==2.2.2
-seaborn==0.13.2
 ```
 
 ## Repository File Description
