@@ -110,11 +110,24 @@ If you wish to cite this work, please use the following citation:
 ## Repository File Description
 
 - **`CAKL/`**  
-  Contains the core source code and examples:  
-  - `psrt.py`: main implementation of the CAKL framework.  
-  - `example.py`: usage example on arbitrary sequences.  
-  - `example.ipynb`: Jupyter notebook demonstrating how to reproduce feature extraction and distance computations for two sample datasets.  
+  Contains the core source code and example workflows:  
+  - `psrt.py`: Main implementation of the CAKL framework.  
+  - `example.py`: Minimal usage example on arbitrary sequences.  
+  - `example.ipynb`: Jupyter notebook demonstrating feature extraction, distance computation, and tree construction for sample datasets.  
+  - `Featurization.ipynb`: Extracts features from sequences listed in a FASTA file and CSV metadata.  
+  - `Stacking.ipynb`: Stacks individual feature arrays into a single matrix in sorted order for reproducibility.  
+  - `Distances.ipynb`: Computes pairwise distance matrices from the stacked features.  
+  - `1nn_classification.ipynb`: Performs leave-one-out 1-NN classification and reports evaluation metrics.  
+  - `5nn_classification.ipynb`: Performs 5-fold 5-NN classification and reports evaluation metrics.  
+  - `purity.ipynb`: Computes purity scores of phylogenetic trees.  
+
+- **`CAKL/data/`**  
+  Includes accession lists of NCBI datasets used in the main manuscript.  
 
 - **`CAKL/data2/`**  
-  Includes two example datasets used in the experiments and demonstrations.  
+  Includes datasets used for phylogenetic tree construction and genetic identification.  
+
+- **`trees_purity/`**  
+  Contains phylogenetic trees generated from the datasets, used for purity computations.  
+
 
