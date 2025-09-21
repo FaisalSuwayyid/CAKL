@@ -119,10 +119,12 @@ If you wish to cite this work, please use the following citation:
   - `Distances.ipynb`: Computes pairwise distance matrices from the stacked features.  
   - `1nn_classification.ipynb`: Performs leave-one-out 1-NN classification and reports evaluation metrics.  
   - `5nn_classification.ipynb`: Performs 5-fold 5-NN classification and reports evaluation metrics.  
-  - `purity.ipynb`: Computes purity scores of phylogenetic trees.  
+  - `purity.ipynb`: Computes purity scores of phylogenetic trees.
+  - `complete_workflow.ipynb`: Demonstrates the full workflow — **Featurization → Stacking → Distances** — on the NCBI datasets.  This notebook can then be extended with classification tasks for testing purposes.  Running it on the complete datasets allows full reproduction of the results presented in the paper.  
+
 
 - **`CAKL/data/`**  
-  Includes accession lists of NCBI datasets used in the main manuscript.  
+  Includes accession lists of NCBI datasets used in the main manuscript. It also includes samples of them to run the codes on. 
 
 - **`CAKL/data2/`**  
   Includes datasets used for phylogenetic tree construction and genetic identification.  
