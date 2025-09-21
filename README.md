@@ -88,25 +88,6 @@ To use the code on your data, please ensure your input files are properly format
   - Constructs the tree, visualizes it as a dendrogram, and saves a Newick version.  
   - This example reproduces the tree construction used in the paper, and uses dendrogram visualization.  
 
- 
-## License
-
-CAKL is licensed under the MIT license (COPYING.txt), with an extra clause (CONTRIBUTING.txt) clarifying the license for modifications released without an explicit written license agreement.
-
-## Citation
-
-If you wish to cite this work, please use the following citation:
-```
-@misc{suwayyid2025cakl,
-      title={CAKL: Commutative Algebra $k$-mer Learning of Genomics}, 
-      author={Faisal Suwayyid and Yuta Hozumi and Hongsong Feng and Mushal Zia and JunJie Wee and Guo-Wei Wei},
-      year={2025},
-      eprint={2508.09406},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2508.09406}, 
-}
-```
-
 ## Repository File Description
 
 - **`CAKL/`**  
@@ -132,4 +113,20 @@ If you wish to cite this work, please use the following citation:
 - **`trees_purity/`**  
   Contains phylogenetic trees generated from the datasets, used for purity computations.  
 
+## License
 
+CAKL is licensed under the MIT license (COPYING.txt), with an extra clause (CONTRIBUTING.txt) clarifying the license for modifications released without an explicit written license agreement.
+
+## Citation
+
+If you wish to cite this work, please use the following citation:
+```
+@misc{suwayyid2025cakl,
+      title={CAKL: Commutative Algebra $k$-mer Learning of Genomics}, 
+      author={Faisal Suwayyid and Yuta Hozumi and Hongsong Feng and Mushal Zia and JunJie Wee and Guo-Wei Wei},
+      year={2025},
+      eprint={2508.09406},
+      archivePrefix={arXiv},
+      url={https://arxiv.org/abs/2508.09406}, 
+}
+```
