@@ -46,9 +46,31 @@ To use the code on your data, please ensure your input files are properly format
 
 2. **CSV file**
    - Must contain a column named `Accession (version)` that exactly matches the accessions (or accession+version identifiers) in the FASTA file.  
-   - The labels column can vary; adjust the column name in the code to match the one used in your CSV file.  
+   - The labels column can vary; adjust the column name in the code to match the one used in your CSV file.
+  
+3. **Featurization**
+   - `Featurization.ipynb` reads sequences from the FASTA file and their corresponding accessions from the CSV file.  
+   - Features are computed only for sequences whose accessions are listed in the CSV file, and in the same order as they appear in the CSV. 
+   - For each sequence, the resulting feature array is stored and saved using the accession as the filename.
+  
+4. **Stacking**
+   - `Stacking.ipynb` stacks the extracted features into a single feature matrix.  
+   - Features are aligned in a consistent **sorted order** to ensure reproducibility.  
 
-## Basic Usage
+5. **Distances**
+   - `Distances.ipynb` computes the pairwise distance matrix from the stacked features.  
+   - The distance matrix follows the same **sorted order** of accessions used during stacking.  
+
+6. **Applications**
+   - **Classification**:  
+     - `5nn_classification.ipynb` and `1nn_classification.ipynb` perform k-NN classification tasks (with k=5 and k=1, respectively).  
+     - The resulting scores can be used to evaluate model performance.  
+   - **Phylogenetic trees**:  
+     - Phylogenetic trees can be constructed directly from the computed distance matrices.  
+
+
+
+## Demo and reproduction
 
 - **`example.py`**  
   Provides a minimal example for generating features.  
@@ -62,9 +84,10 @@ To use the code on your data, please ensure your input files are properly format
   - Reads sequences from a FASTA file and their labels from a CSV file.  
   - Generates features for each sequence (saved as individual NumPy arrays).  
   - Stacks the features into a single feature matrix.  
-  - Computes the distance matrix from the generated features.
-  - Construct the tree, view it, and save a Newick version of the tree.
-  - Demo runtime: less than 10 minutes.
+  - Computes the distance matrix from the generated features.  
+  - Constructs the tree, visualizes it as a dendrogram, and saves a Newick version.  
+  - This example reproduces the tree construction used in the paper, and uses dendrogram visualization.  
+
  
 ## License
 
