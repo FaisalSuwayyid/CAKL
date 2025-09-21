@@ -101,7 +101,7 @@ To use the code on your data, please ensure your input files are properly format
   - `1nn_classification.ipynb`: Performs leave-one-out 1-NN classification and reports evaluation metrics.  
   - `5nn_classification.ipynb`: Performs 5-fold 5-NN classification and reports evaluation metrics.  
   - `purity.ipynb`: Computes purity scores of phylogenetic trees.
-  - `complete_workflow.ipynb`: Demonstrates the full workflow — **Featurization → Stacking → Distances** — on the NCBI datasets.  This notebook can then be extended with classification tasks for testing purposes.  Running it on the complete datasets allows full reproduction of the results presented in the paper.  
+  - `complete_workflow.ipynb`: Demonstrates the full workflow — **Featurization → Stacking → Distances** — on the NCBI datasets.  This notebook can then be extended with classification tasks for testing purposes.  Running it on the complete datasets, available in [link](https://weilab.math.msu.edu/DataLibrary/2D/Downloads/genetics.zip) allows full reproduction of the results presented in the paper.  
 
 
 - **`CAKL/data/`**  
