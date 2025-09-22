@@ -23,7 +23,7 @@ Copyright © 2025 Faisal Suwayyid.
 CAKL is an alignment-free method that computes k-mer algebraic representations of sequences based on k-mer analysis leveraging tools from commutative algebra, as detailed in the main manuscript. Though the code is designed for DNA sequences, the method can be generalized to arbitrary finite sequences.
 
 ## Required Packages
-The codes have been tested on macOS: Sonoma (14.6.1). The individual packages that we utilized are listed below:
+The codes have been tested on macOS: Sonoma (14.6.1). The implementation is written in Python. The individual packages can be installed by following the instructions in their webpages, and are listed below:
 ```
 # numpy==1.26.4
 # scikit-learn ==1.4.2
