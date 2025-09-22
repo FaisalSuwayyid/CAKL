@@ -110,7 +110,7 @@ To use the code on your data, please ensure your input files are properly format
 - **`CAKL/data2/`**  
   Includes datasets used for phylogenetic tree construction and genetic identification.  
 
-- **`trees_purity/`**  
+- **`CAKL/trees_purity/`**  
   Contains phylogenetic trees generated from the datasets, used for purity computations.  
 
 ## License
