@@ -86,7 +86,9 @@ To use the code on your data, please ensure your input files are properly format
   - Stacks the features into a single feature matrix.  
   - Computes the distance matrix from the generated features.  
   - Constructs the tree, visualizes it as a dendrogram, and saves a Newick version.  
-  - This example reproduces the tree construction used in the paper, and uses dendrogram visualization.  
+  - This example reproduces the tree construction used in the paper, and uses dendrogram visualization.
+ 
+The featurization of the NCBI datasets was performed on the HPCC, where tasks were subdivided into smaller units. The complete process required approximately five days to finish.
 
 ## Repository File Description
 
