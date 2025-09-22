@@ -105,7 +105,7 @@ To use the code on your data, please ensure your input files are properly format
 
 
 - **`CAKL/data/`**  
-  Includes accession lists of NCBI datasets used in the main manuscript. It also includes samples of them to run the codes on. 
+  Includes accession lists of NCBI datasets used in the main manuscript. It also includes samples of them to run the code on. The complete datasets are available in [link](https://weilab.math.msu.edu/DataLibrary/2D/Downloads/genetics.zip).
 
 - **`CAKL/data2/`**  
   Includes datasets used for phylogenetic tree construction and genetic identification.  
