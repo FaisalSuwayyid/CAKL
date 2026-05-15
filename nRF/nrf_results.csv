@@ -1,0 +1,8 @@
+Dataset,k,CAKR_tree,MAFFT_tree,nRF,nRF_rounded_2
+ebolavirus_record,4,./trees2/CAKR/ebolavirus_record/k4_tree_facet0.txt,./trees2/mafft/ebolavirus_UPGMA_relabelled_accessions.nwk,0.4107142857142857,0.41
+HEV_record,4,./trees2/CAKR/HEV_record/k4_tree_facet0.txt,./trees2/mafft/HEV_UPGMA_relabelled_accessions.nwk,0.37777777777777777,0.38
+influenzaHAgene_record,4,./trees2/CAKR/influenzaHAgene_record/k4_tree_facet0.txt,./trees2/mafft/influenza_UPGMA_relabelled_accessions.nwk,0.2,0.2
+mammalianMT_record,4,./trees2/CAKR/mammalianMT_record/k4_tree_facet0.txt,./trees2/mafft/mammalian_UPGMA_relabelled_accessions.nwk,0.42105263157894735,0.42
+rhinovirus_record,5,./trees2/CAKR/rhinovirus_record/k5_tree_facet0.txt,./trees2/mafft/rhinovirus_UPGMA_relabelled_accessions.nwk,0.4336283185840708,0.43
+sarscov2_record,6,./trees2/CAKR/sarscov2_record/k6_tree_facet0.txt,./trees2/mafft/sars_UPGMA_relabelled_accessions.nwk,0.5121951219512195,0.51
+Average,,,,0.3925613559343835,0.39
