@@ -113,8 +113,26 @@ The featurization of the NCBI datasets was performed on the HPCC, where tasks we
   Includes datasets used for phylogenetic tree construction and genetic identification.  
 
 - **`CAKL/trees_purity/`**  
-  Contains phylogenetic trees generated from the datasets, used for purity computations.  
+  Contains phylogenetic trees generated from the datasets, used for purity computations.
 
+- **`data-driven k-selection/`**  
+  Contains the scripts used for the data-driven \(k\)-selection framework. These scripts compute the criteria used to justify the selected \(k\)-mer scales in the manuscript, including the coverage-based structural elbow, information-sparsity score, stability-adjusted entropy score, and the weighted consensus rule.
+
+- **`nRF/`**  
+  Contains scripts for computing normalized Robinson-Foulds (nRF) distances between inferred phylogenetic trees and reference trees. These scripts support the topology-based tree-comparison analysis reported in the revised manuscript and Supplementary Information.
+
+- **`Kendall’s W/`**  
+  Contains scripts for computing Kendall’s coefficient of concordance \(W\), used to assess the stability of method rankings across evaluation metrics and dataset versions.
+
+- **`Salmonella/`**  
+  Contains the scripts and files used for the narrow-clade Salmonella benchmark analyses. These analyses were added in response to reviewer comments requesting evaluation on more closely related bacterial genomes.
+
+- **`Methods comparisons/`**  
+  Contains driver scripts for comparing CAKR with the other DNA encoder and alignment-free methods used in the manuscript. These scripts support reproducible comparisons under shared inputs and evaluation protocols.
+
+- **`Other Methods/`**  
+  Contains implementation files and auxiliary scripts for the baseline methods used in comparison with CAKR.
+  
 ## License
 
 CAKL is licensed under the MIT license (COPYING.txt), with an extra clause (CONTRIBUTING.txt) clarifying the license for modifications released without an explicit written license agreement.
